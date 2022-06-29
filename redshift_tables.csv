@@ -25,7 +25,6 @@ aoz,dws_operate_battle_log
 aoz,dws_operate_power_log
 aoz,dws_operate_res_log
 aoz,dws_user_info_base
-ody,dim_item_prop
 ody,dim_server_info
 ody,dim_sso_create_user
 ody,dim_user_info_all
@@ -53,7 +52,6 @@ ody,dws_operate_power_log
 ody,dws_operate_res_log
 ody,dws_user_info_base
 wao,dim_aso_user
-wao,dim_item_prop
 wao,dim_server_info
 wao,dim_sso_create_user
 wao,dim_user_info_all
