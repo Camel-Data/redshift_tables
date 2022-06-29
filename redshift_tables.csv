@@ -1,5 +1,4 @@
-﻿game,table
-aoz,dim_item_prop
+game,table
 aoz,dim_server_info
 aoz,dim_sso_create_user
 aoz,dim_user_info_all
